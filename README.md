@@ -1,0 +1,1 @@
+"In my React project, I acquired proficiency in implementing routes using React Router DOM, enabling navigation between different views or pages within a single-page application. Additionally, I gained expertise in employing loaders, which enhance user experience by visually indicating when content is being loaded or processed."
